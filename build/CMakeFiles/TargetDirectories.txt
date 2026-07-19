@@ -1,0 +1,3 @@
+/Users/mry/Documents/ParallelImageRecognition/build/CMakeFiles/ParallelImageRecognition.dir
+/Users/mry/Documents/ParallelImageRecognition/build/CMakeFiles/edit_cache.dir
+/Users/mry/Documents/ParallelImageRecognition/build/CMakeFiles/rebuild_cache.dir
